@@ -3,7 +3,7 @@ FAQ CFEM - ANM
 
 Texto de teste
 
-.ui-widget-content a { color: #2980b9;} .ui-widget-content a:visited { color: #9b59b6;} .toctree-wrapper > p.caption { display:none}
+
 
 .. toctree::
    :maxdepth: 3
