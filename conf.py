@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'FAQ CFEM'
+project = u'FAQ Sistema de Dados Cadastrais ANM'
 copyright = u'2020, ANM'
 author = u'ANM'
 
@@ -101,7 +101,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'FAQCFEM'
+htmlhelp_basename = 'FAQSDCANM'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -128,7 +128,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'ManualScriptChatbotProtocoloDigital.tex', u'FAQ CFEM',
+    (master_doc, 'ManualScriptChatbotProtocoloDigital.tex', u'FAQ SDC ANM',
      u'ANM', 'manual'),
 ]
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'manualscriptchatbotProtocoloDigital', u'FAQ CFEM',
+    (master_doc, 'manualscriptchatbotProtocoloDigital', u'FAQ SDC ANM',
      [author], 1)
 ]
 
@@ -149,7 +149,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'ManualScriptChatbotProtocoloDigital', u'FAQ CFEM',
+    (master_doc, 'ManualScriptChatbotProtocoloDigital', u'FAQ SDC ANM',
      author, 'ManualScriptChatbotProtocoloDigital', 'One line description of project.',
      'Miscellaneous'),
 ]
